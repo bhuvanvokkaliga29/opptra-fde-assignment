@@ -13,6 +13,7 @@
 </div>
 
 ---
+demo : https://opptra-fde-assignment.vercel.app/
 
 ## 🌟 The Hook: Why This Engine?
 
@@ -40,6 +41,10 @@ Why write regex or JSON when you can just type?
 * Fault-tolerant: Malformed rows are isolated, preserving the rest of your cart data.
 
 ---
+ss:
+
+<img width="1576" height="764" alt="Screenshot 2026-06-30 222412" src="https://github.com/user-attachments/assets/fa3551fc-a327-4136-a786-033d3482195e" />
+<img width="1596" height="641" alt="Screenshot 2026-06-30 222502" src="https://github.com/user-attachments/assets/8c8717f4-013d-46e5-ac40-f259aebd4102" />
 
 ## 💻 Run Locally
 
@@ -112,7 +117,4 @@ sample-data/
  └── cart.csv
 ```
 
-<br>
-<div align="center">
-  <i>Built with ❤️ for the Opptra FDE Intern Assignment.</i>
-</div>
+
